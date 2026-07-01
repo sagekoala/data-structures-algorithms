@@ -4,3 +4,9 @@
 a.out
 .vscode/
 .DS_Store
+*.o
+*.o.*
+*.res
+Game
+Makefile.deps
+all_logs.txt
